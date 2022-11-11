@@ -23,7 +23,7 @@
   * ナレッジグラフにおける推論,知識処理
   * ナレッジグラフを用いたグラフニューラルネットワーク
   * [動画からの物体認識](./Object_Detection.md)
-    * [YOLO](https://colab.research.google.com/github/takanori-ugai/KGRC-ws-2022-fork/blob/main/notebooks/YOLOV5.ipynb?hl=ja)
+    * [YOLO](https://colab.research.google.com/github/takanori-ugai/KGRC-ws-2022-fork/blob/main/notebooks/YOLOV5.ipynb?hl=ja) (この部分だけGPL3.0で配布)
     * [DETR](https://colab.research.google.com/github/takanori-ugai/KGRC-ws-2022-fork/blob/main/notebooks/detr_hands_on.ipynb?hl=ja)
 * 17:20-17:30 その他ツール紹介
 * 17:30-18:00 Q&A
