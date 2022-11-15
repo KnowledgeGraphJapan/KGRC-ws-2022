@@ -1,9 +1,10 @@
 # ナレッジグラフ推論チャレンジ【実社会版】技術勉強会【資料】
 [ナレッジグラフ推論チャレンジ【実社会版】技術勉強会 -生活行動における安心・安全を目指して-](https://connpass.com/event/264782/)
-で使用する資料を公開しているレポジトリです．  
+で使用した資料を公開しているレポジトリです．  
 
-## 実施概要
-本勉強会は、オンライン開催になっております。飲みながら食べながら カジュアルにご参加ください。途中参加も、興味のある所だけつまみ食い参加も可能です。開始10分前から参加可能です
+## 開催概要
+- 登録者数: 37名
+- 最大同時接続者数: 28名
 
 ## 対象
 [ナレッジグラフ推論チャレンジ【実社会版】〜生活行動における安心・安全を目指して〜](https://challenge.knowledge-graph.jp/2022/)にご興味のある方であれば、どなたでもご参加いただけます。
@@ -17,12 +18,12 @@
 ## 予定スケジュール
 * 15:00-15:30 [ナレッジグラフの基礎](./knowledge_graph_kgrc-ws-2022.pdf)
 * 15:30-15:50 [推論チャレンジ【実社会版】概要](./20221115Seminer.pdf)
-* 15:50-16:10 講演：社会実装とは何か？世界を変革するためのナレッジグラフ　産総研研究員/NPO法人Safe Kids Japan理事)大野美喜子
+* 15:50-16:10 講演：[社会実装とは何か？世界を変革するためのナレッジグラフ](Lecture20221115.pdf)　産総研研究員/NPO法人Safe Kids Japan理事)大野美喜子
 * 16:10-16:30 [推論チャレンジ【実社会版】で提供されるデータの解説](./dataset_kgrc-ws-2022.pdf)
 * 16:30-17:20 提供データで遊ぶ（ハンズオン）
   * [ナレッジグラフを探索するSPARQL](./sparql_kgrc-ws-2022.pdf)
   * [ナレッジグラフにおける推論,知識処理](./reasoning_kgrc-ws-2022.pdf)
-  * [ナレッジグラフを用いたグラフニューラルネットワーク](https://colab.research.google.com/github/KnowledgeGraphJapan/KGRC-ws-2022/blob/main/notebooks/DGLKE.ipynb)
+  * [ナレッジグラフを用いたグラフニューラルネットワーク](https://colab.research.google.com/github/KnowledgeGraphJapan/KGRC-ws-2022/blob/main/notebooks/DGLKE.ipynb): ナレッジグラフ埋め込みを利用した類似ノード検索とリンク予測
   * [動画からの物体認識](./Object_Detection.md)
     * [YOLO](https://colab.research.google.com/github/takanori-ugai/KGRC-ws-2022-fork/blob/main/notebooks/YOLOV5.ipynb?hl=ja) (この部分だけGPL3.0で配布)
     * [DETR](https://colab.research.google.com/github/takanori-ugai/KGRC-ws-2022-fork/blob/main/notebooks/detr_hands_on.ipynb?hl=ja)
