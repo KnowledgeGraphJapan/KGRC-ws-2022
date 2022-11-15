@@ -18,10 +18,10 @@
 * 15:00-15:30 [ナレッジグラフの基礎](./knowledge_graph_kgrc-ws-2022.pdf)
 * 15:30-15:50 [推論チャレンジ【実社会版】概要](./20221115Seminer.pdf)
 * 15:50-16:10 講演：社会実装とは何か？世界を変革するためのナレッジグラフ　産総研研究員/NPO法人Safe Kids Japan理事)大野美喜子
-* 16:10-16:30 推論チャレンジ【実社会版】で提供されるデータの解説
+* 16:10-16:30 [推論チャレンジ【実社会版】で提供されるデータの解説](./dataset_kgrc-ws-2022.pdf)
 * 16:30-17:20 提供データで遊ぶ（ハンズオン）
-  * ナレッジグラフを探索するSPARQL
-  * ナレッジグラフにおける推論,知識処理
+  * [ナレッジグラフを探索するSPARQL](./sparql_kgrc-ws-2022.pdf)
+  * [ナレッジグラフにおける推論,知識処理](./reasoning_kgrc-ws-2022.pdf)
   * [ナレッジグラフを用いたグラフニューラルネットワーク](https://colab.research.google.com/github/KnowledgeGraphJapan/KGRC-ws-2022/blob/main/notebooks/DGLKE.ipynb)
   * [動画からの物体認識](./Object_Detection.md)
     * [YOLO](https://colab.research.google.com/github/takanori-ugai/KGRC-ws-2022-fork/blob/main/notebooks/YOLOV5.ipynb?hl=ja) (この部分だけGPL3.0で配布)
