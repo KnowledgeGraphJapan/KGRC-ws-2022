@@ -28,6 +28,7 @@
     * [YOLO](https://colab.research.google.com/github/takanori-ugai/KGRC-ws-2022-fork/blob/main/notebooks/YOLOV5.ipynb?hl=ja) (この部分だけGPL3.0で配布)
     * [DETR](https://colab.research.google.com/github/takanori-ugai/KGRC-ws-2022-fork/blob/main/notebooks/detr_hands_on.ipynb?hl=ja)
 * 17:20-17:30 その他ツール紹介
+    * [virtualhome2kg-Admire_paintings.ttlのbboxを描いてみる](https://github.com/s246wv/viz-kgrc-rdf-bbox-x3dom/tree/master/virtualhome2kg-Admire_paintings)
 * 17:30-18:00 Q&A
   * チャレンジの取り組むためのヒントが欲しいなど
 ## 参考資料
