@@ -22,7 +22,7 @@
 * 16:30-17:20 提供データで遊ぶ（ハンズオン）
   * ナレッジグラフを探索するSPARQL
   * ナレッジグラフにおける推論,知識処理
-  * ナレッジグラフを用いたグラフニューラルネットワーク
+  * [ナレッジグラフを用いたグラフニューラルネットワーク](https://colab.research.google.com/github/KnowledgeGraphJapan/KGRC-ws-2022/blob/main/notebooks/DGLKE.ipynb)
   * [動画からの物体認識](./Object_Detection.md)
     * [YOLO](https://colab.research.google.com/github/takanori-ugai/KGRC-ws-2022-fork/blob/main/notebooks/YOLOV5.ipynb?hl=ja) (この部分だけGPL3.0で配布)
     * [DETR](https://colab.research.google.com/github/takanori-ugai/KGRC-ws-2022-fork/blob/main/notebooks/detr_hands_on.ipynb?hl=ja)
