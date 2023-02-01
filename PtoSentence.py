@@ -46,7 +46,8 @@ def printSentence(filepath, df):
                         print("the " + gr[4], end=" and ")
         print("done.")
 
-with open('replace.json') as f:
-    df = json.load(f)files = glob.glob("./KGRC-RDF/Program/**/*.txt")
+with open('KGRC-ws-2022/notebooks/replace.json') as f:
+    df = json.load(f)
+files = glob.glob("./KGRC-RDF/Program/**/*.txt")
 for filepath in files:
-    printSentence(filepath)
+  printSentence(filepath, df)
