@@ -16,7 +16,7 @@
 * 15:30-15:50 ナレッジグラフの基礎
 * 15:50-16:30 提供されるデータの概要とSPARQLによる検索
 * 16:30-16:50 動画からの物体と物体間の関係抽出
-* 16:50-17:10 [大規模自然言語モデルを利用した台本データの作成](https://colab.research.google.com/github/KnowledgeGraphJapan/KGRC-ws-2022/blob/20230210/notebooks/Transformer.ipynb)
+* 16:50-17:10 [大規模自然言語モデルを利用した台本データの作成](https://colab.research.google.com/github/KnowledgeGraphJapan/KGRC-ws-2022/blob/20230210/notebooks/Transformer.ipynb) ([説明資料](https://github.com/KnowledgeGraphJapan/KGRC-ws-2022/raw/20230210/20230210%E5%8F%B0%E6%9C%AC%E3%83%87%E3%83%BC%E3%82%BF%E4%BD%9C%E6%88%90.pdf))
 * 17:10-18:00 Q&A
   * チャレンジの取り組むためのヒントが欲しいなど
 ## 参考資料
