@@ -15,7 +15,7 @@
 * 15:00-15:30 [ナレッジグラフ推論チャレンジ実社会版概要紹介](https://github.com/KnowledgeGraphJapan/KGRC-ws-2022/raw/20230210/20230210%E6%A6%82%E8%A6%81%E7%B4%B9%E4%BB%8B.pdf)
 * 15:30-15:50 ナレッジグラフの基礎
 * 15:50-16:30 提供されるデータの概要とSPARQLによる検索
-* 16:30-16:50 [動画からの物体と物体間の関係抽出](https://github.com/KnowledgeGraphJapan/KGRC-ws-2022/raw/20230210/20230210_%E5%8B%95%E7%94%BB%E3%81%8B%E3%82%89%E3%81%AE%E7%89%A9%E4%BD%93%E3%81%A8%E7%89%A9%E4%BD%93%E9%96%93%E3%81%AE%E9%96%A2%E4%BF%82%E6%8A%BD%E5%87%BA.pdf)
+* 16:30-16:50 [動画からの物体と物体間の関係抽出](https://github.com/KnowledgeGraphJapan/KGRC-ws-2022/raw/20230210/20230210_%E5%8B%95%E7%94%BB%E3%81%8B%E3%82%89%E3%81%AE%E7%89%A9%E4%BD%93%E3%81%A8%E7%89%A9%E4%BD%93%E9%96%93%E3%81%AE%E9%96%A2%E4%BF%82%E6%8A%BD%E5%87%BA.pdf) : [notebook](https://colab.research.google.com/github/KnowledgeGraphJapan/KGRC-ws-2022/blob/20230210/notebooks/SGG_visualize.ipynb)
 * 16:50-17:10 [大規模自然言語モデルを利用した台本データの作成](https://colab.research.google.com/github/KnowledgeGraphJapan/KGRC-ws-2022/blob/20230210/notebooks/Transformer.ipynb) ([説明資料](https://github.com/KnowledgeGraphJapan/KGRC-ws-2022/raw/20230210/20230210%E5%8F%B0%E6%9C%AC%E3%83%87%E3%83%BC%E3%82%BF%E4%BD%9C%E6%88%90.pdf))
 * 17:10-18:00 Q&A
   * チャレンジの取り組むためのヒントが欲しいなど
